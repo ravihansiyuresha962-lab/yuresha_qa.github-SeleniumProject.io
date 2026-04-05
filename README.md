@@ -35,3 +35,8 @@ Test Case Name: Verify Chrome Browser Launch and Google Homepage Load
 | 3       | Navigate to URL: [https://www.google.com](https://www.google.com) | Google homepage loads             |
 | 4       | Observe page title or UI                                          | Google search page is displayed   |
 | 5       | Close the browser                                                 | Browser closes without errors     |
+
+
+# Test Type
+
+Functional Testing
