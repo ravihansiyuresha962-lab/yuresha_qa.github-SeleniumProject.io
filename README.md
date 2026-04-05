@@ -19,3 +19,12 @@ This project is created to understand the fundamentals of:
 Browser automation
 ,Selenium setup and configuration
 ,Writing and executing a simple test script in Java
+
+
+| Step No | Action                                                            | Expected Result                   |
+| ------- | ----------------------------------------------------------------- | --------------------------------- |
+| 1       | Execute the `HelloWorld` Java program                             | Program runs without errors       |
+| 2       | Launch browser using ChromeDriver                                 | Chrome browser opens successfully |
+| 3       | Navigate to URL: [https://www.google.com](https://www.google.com) | Google homepage loads             |
+| 4       | Observe page title or UI                                          | Google search page is displayed   |
+| 5       | Close the browser                                                 | Browser closes without errors     |
