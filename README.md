@@ -21,6 +21,13 @@ Browser automation
 ,Writing and executing a simple test script in Java
 
 
+# Test Case: Verify Browser Launch and Navigation to Google
+
+Test Case ID: TC_UI_001
+
+Test Case Name: Verify Chrome Browser Launch and Google Homepage Load
+
+# Test Steps
 | Step No | Action                                                            | Expected Result                   |
 | ------- | ----------------------------------------------------------------- | --------------------------------- |
 | 1       | Execute the `HelloWorld` Java program                             | Program runs without errors       |
